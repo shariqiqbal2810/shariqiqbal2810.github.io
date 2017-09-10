@@ -1,0 +1,20 @@
+title: Shariq Iqbal
+description: PhD Student at USC Computer Science. Building AI that think like humans.
+
+baseurl:  # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://shariqiqbal2810.github.io" # change this to the base hostname & protocol for your site
+
+google_analytics:
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+author: "Shariq Iqbal"
+
+social:
+  github_username:  shariqiqbal2810
+  linkedin_username:  shariqiqbal2810
+  soundcloud: sharqq
+  spotify: 1251124013
+
