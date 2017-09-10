@@ -6,7 +6,7 @@ categories: [neuro]
 tags: [python, eye tracking, machine learning, computer vision, Docker, AWS, OpenCV]
 ---
 
-Here's a couple links to posts about some of the work I have been doing in lab!
+Here are a couple links to posts about some of the work I have been doing in lab!
 
 [This post](https://pearsonlab.github.io/blog/2015/11/06/eye_tracking_tech.html) describes the method we have developed for dynamic object tracking in eye tracking videos, using OpenCV. We use this method to get gaze position coordinates relative to static objects, rather than the eye tracking glasses themselves, to assist in analysis. [This](https://pearsonlab.github.io/blog/2016/03/10/nasher_eye_tracking.html) is an application of the same techniques in an art museum. Both posts include some pretty cool videos that you will want to see!
 
