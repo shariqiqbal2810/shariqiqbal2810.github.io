@@ -1,0 +1,19 @@
+- date:  "2017 - Present"
+  title: "University of Southern California"
+  desc:  "PhD Student in Computer Science. Research in reinforcement learning."
+  host:
+    name: "<a href='http://www-bcf.usc.edu/~feisha/'>Fei Sha</a>"
+    role: "Advisor"
+  brief: true
+- date:  "2015 - 2017"
+  title: "Duke University"
+  desc:  "Research Assistant in computational neuroscience <a href='https://pearsonlab.github.io/'>lab</a>"
+  host:
+    name: "<a href='http://jmxpearson.com/'>John Pearson</a>"
+    role: "Advisor"
+  brief: true
+- date:  "2011 - 2015"
+  title: "Duke University"
+  desc:  "Bachelor's in Computer Science"
+  host: false
+  brief: true
