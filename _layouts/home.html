@@ -36,12 +36,12 @@ layout: default
     </div>
   </div>
 
-  <h2>Latest Blog Posts</h2>
+  <h1>Latest Post</h1>
 
   <div>&nbsp;</div>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% assign post = site.posts | first %}
       <li>
 
         {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
@@ -54,7 +54,6 @@ layout: default
         <span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
 
       </li>
-    {% endfor %}
   </ul>
 
 </div>
