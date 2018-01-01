@@ -1,0 +1,31 @@
+---
+layout: page
+title: Publications
+permalink: /publications.html
+pub_types:
+- "Conference"
+- "Journal"
+- "Talk"
+---
+
+{% for type in page.pub_types %}
+    {% assign sorted_pubs = site.data.publications | sort: 'Year' | reverse | where: "Type",type %}
+
+    <h3>{{ type }}</h3>
+        <ul>
+        {% for pub in sorted_pubs %}
+            <li>
+                {{ pub.Authors }}. {{ pub.Title }}
+                <br>
+                <em>{{ pub.Publication}}</em> ({{ pub.Year }})
+                {% if pub.Volume != false %}
+                    {{ pub.Volume}}{%if pub.Number != false %}({{ pub.Number }}){% endif %}
+                {% endif %}
+                {% if pub.Link != false %}
+                    <br>
+                    (<a href={{ pub.Link }}>link</a>)
+                {% endif %}
+            </li>
+        {% endfor %}
+        </ul>
+{% endfor %}
