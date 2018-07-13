@@ -1,3 +1,10 @@
+- date:  "Summer 2018"
+  title: "NVIDIA Research"
+  desc:  "Research Intern working on reinforcement learning for robotics."
+  host:
+    name: "<a href='http://research.nvidia.com/person/stan-birchfield'>Stan Birchfield</a>"
+    role: "Mentor"
+  brief: true
 - date:  "2017 - Present"
   title: "University of Southern California"
   desc:  "PhD Student in Computer Science. Research in reinforcement learning."
