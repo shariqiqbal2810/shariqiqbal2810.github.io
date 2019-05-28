@@ -7,17 +7,7 @@
     Pages: false
     Year: 2017
     Type: Conference
-    Link: https://arxiv.org/pdf/1702.07319.pdf
--
-    Authors: '<b>Iqbal, Shariq</b>; MacInnes, Jeff'
-    Title: 'Dynamic Object-Gaze Tracking with OpenCV'
-    Publication: PyData Carolinas
-    Volume: false
-    Number: false
-    Pages: false
-    Year: 2016
-    Type: Talk
-    Link: https://www.youtube.com/watch?v=8AGi-7PN0uI
+    Link: https://arxiv.org/abs/1702.07319
 -
     Authors: 'MacInnes, Jeff; <b>Iqbal, Shariq</b>; Pearson, John; Johnson, Elizabeth'
     Title: 'Wearable Eye-tracking for Research: Automated dynamic gaze mapping and accuracy/precision comparisons across devices'
@@ -28,4 +18,34 @@
     Year: 2018
     Type: Preprint
     Link: https://www.biorxiv.org/content/biorxiv/early/2018/06/28/299925.full.pdf
+-
+    Authors: '<b>Iqbal, Shariq N</b>; Yin, Lun; Drucker, Caroline B; Kuang, Qian; Gariépy, Jean-François; Platt, Michael L; Pearson, John M'
+    Title: 'Latent Goal Models for Dynamic Strategic Interaction'
+    Publication: PLOS Computational Biology
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2018
+    Type: Journal
+    Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006895
+-
+    Authors: 'MacInnes, Jeff; <b>Iqbal, Shariq</b>; Pearson, John; Johnson, Elizabeth'
+    Title: 'Mobile Gaze Mapping: A Python package for mapping mobile gaze data to a fixed target stimulus'
+    Publication: The Journal of Open Source Software
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2018
+    Type: Journal
+    Link: http://joss.theoj.org/papers/10.21105/joss.00984
+-
+    Authors: '<b>Iqbal, Shariq</b>; Sha, Fei'
+    Title: 'Actor-Attention-Critic for Multi-Agent Reinforcement Learning'
+    Publication: International Conference on Machine Learning (ICML)
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2019
+    Type: Conference
+    Link: https://arxiv.org/abs/1810.02912
 
