@@ -1,45 +1,17 @@
 -
-    Authors: '<b>Iqbal, Shariq</b>; Pearson, John M'
-    Title: 'A Goal-Based Movement Model for Continuous Multi-Agent Tasks'
-    Publication: NIPS BigNeuro Workshop <b>(Spotlight)</b>
+    Authors: '<b>Shariq Iqbal</b>, Fei Sha'
+    Title: 'Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning'
+    Publication: arXiv, 1905.12127
     Volume: false
     Number: false
     Pages: false
-    Year: 2017
-    Type: Conference
-    Link: https://arxiv.org/abs/1702.07319
--
-    Authors: 'MacInnes, Jeff; <b>Iqbal, Shariq</b>; Pearson, John; Johnson, Elizabeth'
-    Title: 'Wearable Eye-tracking for Research: Automated dynamic gaze mapping and accuracy/precision comparisons across devices'
-    Publication: bioRxiv, 299925
-    Volume: false
-    Number: false
-    Pages: false
-    Year: 2018
+    Year: 2019
     Type: Preprint
-    Link: https://www.biorxiv.org/content/biorxiv/early/2018/06/28/299925.full.pdf
+    Link: https://arxiv.org/abs/1905.12127
+    Talk: false
+    Site: https://sites.google.com/view/multi-exploration-neurips2019/home
 -
-    Authors: '<b>Iqbal, Shariq N</b>; Yin, Lun; Drucker, Caroline B; Kuang, Qian; Gariépy, Jean-François; Platt, Michael L; Pearson, John M'
-    Title: 'Latent Goal Models for Dynamic Strategic Interaction'
-    Publication: PLOS Computational Biology
-    Volume: false
-    Number: false
-    Pages: false
-    Year: 2018
-    Type: Journal
-    Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006895
--
-    Authors: 'MacInnes, Jeff; <b>Iqbal, Shariq</b>; Pearson, John; Johnson, Elizabeth'
-    Title: 'Mobile Gaze Mapping: A Python package for mapping mobile gaze data to a fixed target stimulus'
-    Publication: The Journal of Open Source Software
-    Volume: false
-    Number: false
-    Pages: false
-    Year: 2018
-    Type: Journal
-    Link: http://joss.theoj.org/papers/10.21105/joss.00984
--
-    Authors: '<b>Iqbal, Shariq</b>; Sha, Fei'
+    Authors: '<b>Shariq Iqbal</b>, Fei Sha'
     Title: 'Actor-Attention-Critic for Multi-Agent Reinforcement Learning'
     Publication: International Conference on Machine Learning (ICML)
     Volume: false
@@ -48,4 +20,53 @@
     Year: 2019
     Type: Conference
     Link: https://arxiv.org/abs/1810.02912
-
+    Talk: false
+    Site: false
+-
+    Authors: '<b>Shariq N Iqbal</b>, Lun Yin, Caroline B Drucker, Qian Kuang, Jean-François Gariépy, Michael L Platt, John M Pearson'
+    Title: 'Latent Goal Models for Dynamic Strategic Interaction'
+    Publication: PLOS Computational Biology
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2018
+    Type: Journal
+    Link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006895
+    Talk: false
+    Site: false
+-
+    Authors: 'Jeff MacInnes, <b>Shariq Iqbal</b>, John Pearson, Elizabeth Johnson'
+    Title: 'Wearable Eye-tracking for Research: Automated dynamic gaze mapping and accuracy/precision comparisons across devices'
+    Publication: bioRxiv, 299925
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2018
+    Type: Preprint
+    Link: https://www.biorxiv.org/content/biorxiv/early/2018/06/28/299925.full.pdf
+    Talk: https://youtu.be/8AGi-7PN0uI
+    Site: false
+-
+    Authors: 'Jeff MacInnes, <b>Shariq Iqbal</b>, John Pearson, Elizabeth Johnson'
+    Title: 'Mobile Gaze Mapping: A Python package for mapping mobile gaze data to a fixed target stimulus'
+    Publication: The Journal of Open Source Software
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2018
+    Type: Journal
+    Link: http://joss.theoj.org/papers/10.21105/joss.00984
+    Talk: false
+    Site: false
+-
+    Authors: '<b>Shariq Iqbal</b>, John M Pearson'
+    Title: 'A Goal-Based Movement Model for Continuous Multi-Agent Tasks'
+    Publication: NIPS BigNeuro Workshop <b>(Spotlight)</b>
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2017
+    Type: Conference
+    Link: https://arxiv.org/abs/1702.07319
+    Talk: false
+    Site: false

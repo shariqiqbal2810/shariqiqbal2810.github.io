@@ -15,7 +15,9 @@ pub_types:
         <ul>
         {% for pub in sorted_pubs %}
             <li>
-                {{ pub.Authors }}. {{ pub.Title }}
+                {{ pub.Title }}
+                <br>
+                {{ pub.Authors }}
                 <br>
                 <em>{{ pub.Publication}}</em> ({{ pub.Year }})
                 {% if pub.Volume != false %}
@@ -23,7 +25,13 @@ pub_types:
                 {% endif %}
                 {% if pub.Link != false %}
                     <br>
-                    (<a href={{ pub.Link }}>link</a>)
+                    (<a href={{ pub.Link }}>paper</a>)
+                {% endif %}
+                {% if pub.Talk != false %}
+                    (<a href={{ pub.Talk }}>talk</a>)
+                {% endif %}
+                {% if pub.Site != false %}
+                    (<a href={{ pub.Site }}>site</a>)
                 {% endif %}
             </li>
         {% endfor %}
