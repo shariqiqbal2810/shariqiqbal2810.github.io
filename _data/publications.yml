@@ -1,4 +1,28 @@
 -
+    Authors: 'Sébastien MR Arnold, <b>Shariq Iqbal</b>, Fei Sha'
+    Title: 'Decoupling Adaptation from Modeling with Meta-Optimizers for Meta Learning'
+    Publication: arXiv, 1910.13603
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2019
+    Type: Preprint
+    Link: https://arxiv.org/abs/1910.13603
+    Site: false
+    Talk: false
+-
+    Authors: '<b>Shariq Iqbal</b>, Jonathan Tremblay, Thang To, Jia Cheng, Erik Leitch, Andy Campbell, Kirby Leung, Duncan McKay, Stan Birchfield'
+    Title: 'Directional Semantic Grasping of Real-World Objects: From Simulation to Reality'
+    Publication: arXiv, 1909.02075
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2019
+    Type: Preprint
+    Link: https://arxiv.org/abs/1909.02075
+    Site: false
+    Talk: false
+-
     Authors: '<b>Shariq Iqbal</b>, Fei Sha'
     Title: 'Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning'
     Publication: arXiv, 1905.12127
@@ -8,8 +32,8 @@
     Year: 2019
     Type: Preprint
     Link: https://arxiv.org/abs/1905.12127
+    Site: false
     Talk: false
-    Site: https://sites.google.com/view/multi-exploration-neurips2019/home
 -
     Authors: '<b>Shariq Iqbal</b>, Fei Sha'
     Title: 'Actor-Attention-Critic for Multi-Agent Reinforcement Learning'

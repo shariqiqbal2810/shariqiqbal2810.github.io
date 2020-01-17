@@ -1,3 +1,10 @@
+- date:  "January 2020 - May 2020"
+  title: "University of Oxford"
+  desc:  "Visiting student researcher at <a href='https://whirl.cs.ox.ac.uk/'>WhiRL Lab</a>. Working on multi-agent reinforcement learning."
+  host:
+    name: "<a href='https://www.cs.ox.ac.uk/people/shimon.whiteson/'>Shimon Whiteson</a>"
+    role: "Advisor"
+  brief: true
 - date:  "Summer 2018"
   title: "NVIDIA Research"
   desc:  "Research Intern working on reinforcement learning for robotics."
