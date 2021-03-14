@@ -1,12 +1,24 @@
 -
-    Authors: 'Sébastien MR Arnold, <b>Shariq Iqbal</b>, Fei Sha'
-    Title: 'Decoupling Adaptation from Modeling with Meta-Optimizers for Meta Learning'
-    Publication: arXiv, 1910.13603
+    Authors: '<b>Shariq Iqbal</b>, Christian A. Schroeder de Witt, Bei Peng, Wendelin Böhmer, Shimon Whiteson, Fei Sha'
+    Title: 'Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning'
+    Publication: arXiv, 2006.04222
     Volume: false
     Number: false
     Pages: false
-    Year: 2019
+    Year: 2020
     Type: Preprint
+    Link: https://arxiv.org/abs/2006.04222
+    Site: false
+    Talk: false
+-
+    Authors: 'Sébastien MR Arnold, <b>Shariq Iqbal</b>, Fei Sha'
+    Title: 'When MAML Can Adapt Fast and How to Assist When It Cannot'
+    Publication: AISTATS
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2021
+    Type: Conference
     Link: https://arxiv.org/abs/1910.13603
     Site: false
     Talk: false
