@@ -1,3 +1,10 @@
+- date:  "Summer 2021"
+  title: "Deepmind"
+  desc:  "Research Scientist Intern working on deep reinforcement learning."
+  host:
+    name: "<a href='https://sites.google.com/site/cosminpaduraru'>Cosmin Paduraru</a>"
+    role: "Mentor"
+  brief: true
 - date:  "January 2020 - May 2020"
   title: "University of Oxford"
   desc:  "Visiting student researcher at <a href='https://whirl.cs.ox.ac.uk/'>WhiRL Lab</a>. Working on multi-agent reinforcement learning."
