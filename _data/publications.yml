@@ -1,4 +1,16 @@
 -
+    Authors: 'Robby Costales, <b>Shariq Iqbal</b>, Fei Sha'
+    Title: 'Possibility Before Utility: Learning And Using Hierarchical Affordances'
+    Publication: International Conference on Learning Representations (ICLR) <b>(Spotlight)</b>
+    Volume: false
+    Number: false
+    Pages: false
+    Year: 2022
+    Type: Conference
+    Link: https://openreview.net/forum?id=7b4zxUnrO2N
+    Site: false
+    Talk: false
+-
     Authors: '<b>Shariq Iqbal</b>, Christian A. Schroeder de Witt, Bei Peng, Wendelin Böhmer, Shimon Whiteson, Fei Sha'
     Title: 'Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning'
     Publication: International Conference on Machine Learning (ICML) <b>(Long Talk)</b>
@@ -7,7 +19,7 @@
     Pages: false
     Year: 2021
     Type: Conference
-    Link: https://arxiv.org/abs/2006.04222
+    Link: http://proceedings.mlr.press/v139/iqbal21a.html
     Site: false
     Talk: false
 -
@@ -19,7 +31,7 @@
     Pages: false
     Year: 2021
     Type: Conference
-    Link: https://arxiv.org/abs/1910.13603
+    Link: http://proceedings.mlr.press/v130/arnold21a.html
     Site: false
     Talk: false
 -
@@ -31,7 +43,7 @@
     Pages: false
     Year: 2020
     Type: Conference
-    Link: https://arxiv.org/abs/1909.02075
+    Link: https://ieeexplore.ieee.org/abstract/document/9197310?casa_token=rgJ4KE3LefQAAAAA:OZiUj28xFmC3pAWrxagrB_e4HjRPOYXHx_IC52m9-ip1bryzKnWEwYzBWWkkIrJwrHbTXq4
     Site: false
     Talk: false
 -
@@ -55,7 +67,7 @@
     Pages: false
     Year: 2019
     Type: Conference
-    Link: https://arxiv.org/abs/1810.02912
+    Link: http://proceedings.mlr.press/v97/iqbal19a.html
     Talk: false
     Site: false
 -
