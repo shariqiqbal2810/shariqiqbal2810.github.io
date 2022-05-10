@@ -1,3 +1,8 @@
+- date: "2022 - Present"
+  title: "Deepmind"
+  desc: "Research Scientist working on applied reinforcement learning"
+  brief: true
+  host: false
 - date:  "Summer 2021"
   title: "Deepmind"
   desc:  "Research Scientist Intern working on deep reinforcement learning."
@@ -19,9 +24,9 @@
     name: "<a href='http://research.nvidia.com/person/stan-birchfield'>Stan Birchfield</a>"
     role: "Mentor"
   brief: true
-- date:  "2017 - Present"
+- date:  "2017 - 2022"
   title: "University of Southern California"
-  desc:  "PhD Student in Computer Science. Research in reinforcement learning."
+  desc:  "PhD Student in Computer Science. Research in multi-agent reinforcement learning."
   host:
     name: "<a href='http://www-bcf.usc.edu/~feisha/'>Fei Sha</a>"
     role: "Advisor"
